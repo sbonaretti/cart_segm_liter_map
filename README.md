@@ -10,3 +10,7 @@ The code in this repository is used in these YouTube videos (click on image to g
 
 <a href="https://youtu.be/-9qSUJTuec8" target="_blank"><img src="repro.png" alt="image" width="283" height="160" border="10"></a>
 
+<a href="https://youtu.be/owSGVOov9pQ" target="_blank"><img src="binder.png" alt="image" width="283" height="160" border="10"></a>
+
+<a href="https://youtu.be/gp3D4mf6MHQ" target="_blank"><img src="citable_code.png" alt="image" width="283" height="160" border="10"></a>
+
