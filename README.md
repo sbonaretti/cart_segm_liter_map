@@ -6,7 +6,7 @@ Try it on binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybin
 
 Cite the code: [![DOI](https://zenodo.org/badge/223441506.svg)](https://zenodo.org/badge/latestdoi/223441506)
 
-The code in this repository is used in these YouTube videos: 
+The code in this repository is used in these YouTube videos (click on image to get to the video): 
 
-<a href="https://youtu.be/-9qSUJTuec8" target="_blank"><img src="repro.png" alt="image" width="283" height="160" border="10" /></a>
+<a href="https://youtu.be/-9qSUJTuec8" target="_blank"><img src="repro.png" alt="image" width="283" height="160" border="10"></a>
 
