@@ -8,4 +8,5 @@ Cite the code: [![DOI](https://zenodo.org/badge/223441506.svg)](https://zenodo.o
 
 The code in this repository is used in these YouTube videos: 
 
-[![video](repro.png)](https://youtu.be/-9qSUJTuec8)
+<a href="https://youtu.be/-9qSUJTuec8" target="_blank"><img src="repro.png" alt="image" width="240" height="180" border="10" /></a>
+
